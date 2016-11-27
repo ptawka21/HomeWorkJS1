@@ -9,7 +9,7 @@ function getRandomNumber()
 }
 
 var Task1 = {
-    "LENGTH_ARR": 10,
+    "LENGTH_ARR": 1000000,
     "arr":[],
     "sumOfArr":0,
     "timeOfCreateArr":0,
